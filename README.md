@@ -20,11 +20,11 @@ This repository contains a simple Solidity smart contract for managing tasks on 
 
 ### Deployed Address (Monad Testnet)
 
-`[INSERT YOUR DEPLOYED CONTRACT ADDRESS HERE]`
+`0xF2B06F9929ef242e486FF76eCBA0Fc140ED0cB11`
 
 ### Explorer Link
 
-`[INSERT MONAD EXPLORER LINK HERE]`
+`https://monad-testnet.socialscan.io/address/0xf2b06f9929ef242e486ff76ecba0fc140ed0cb11/`
 
 ## How to Use
 
